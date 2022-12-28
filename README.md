@@ -29,8 +29,8 @@ a=b
 b=temp
 print("Swapped values are:",a,b)
 ```
-
-![output](program.png)
+## Output:
+![output](/Screenshot_20221228_062857.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed

@@ -20,8 +20,8 @@ End the program
 ## PROGRAM:
 ```
 #Program to swap two values.
-#Developed by: LOKESH RAHUL V V
-#RegisterNumber: 22004702   
+#Developed by : Vasanthamukilan.M
+#RegisterNumber : 22001986
 a=int(input())
 b=int(input())
 temp=a
@@ -29,11 +29,5 @@ a=b
 b=temp
 print("Swapped values are:",a,b)
 ```
-## Output:
-![output](/Screenshot_20221228_062857.png)
-
 ## RESULT:
 Thus the swapping of two values are successfully executed
-
-
-
